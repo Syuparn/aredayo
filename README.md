@@ -1,7 +1,7 @@
 # aredayo
-An agent command to help you remember repository names!
+An agent skills to help you remember repository names!
 
-## Commands
+## Skills
 
 ### `/aredayo-save`
 
